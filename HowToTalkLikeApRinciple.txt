@@ -1,0 +1,5 @@
+principlestory ="""   Good morning students.
+                      I would like to congratulate all prefects for the good work done.
+                       Make sure you put in more effort in your school work in order to
+                        get good results. Have a nice day"""
+print(principlestory)                        
